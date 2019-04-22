@@ -9,7 +9,7 @@ app.use(function(req, res, next) {
     next();
 });
 
-app.get("api/employees", (req, res)=>{
+app.get("/api/employees", (req, res)=>{
     let users = [
         {
           "name": "Saif ur rehman",
