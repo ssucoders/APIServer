@@ -1,0 +1,27 @@
+{
+  "name": "employeesapis",
+  "version": "1.0.0",
+  "description": "node js express server to provide employee apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssucoders/APIServer.git"
+  },
+  "keywords": [
+    "api",
+    "express"
+  ],
+  "author": "Shahzad Mirza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssucoders/APIServer/issues"
+  },
+  "homepage": "https://github.com/ssucoders/APIServer#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
