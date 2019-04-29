@@ -34,6 +34,54 @@ app.get("/api/employees", (req, res)=>{
           "checkout": null,
           "picture": "IMG-20190205-WA0170.jpg",
           "id":"3"
+        },
+        {
+          "name": "Shuja",
+          "designation": "Sr Software Engineer",
+          "checkin": null,
+          "checkout": null,
+          "picture": "IMG-20190205-WA0167.jpg",
+          "id":"4"
+        },
+        {
+          "name": "Awais",
+          "designation": "Software Engineer",
+          "checkin": null,
+          "checkout": null,
+          "picture": "IMG-20190205-WA0150.jpg",
+          "id":"5"
+        },
+        {
+          "name": "Habib",
+          "designation": "Admin",
+          "checkin": null,
+          "checkout": null,
+          "picture": "IMG-20190205-WA0170.jpg",
+          "id":"6"
+        },
+        {
+          "name": "Ibrar",
+          "designation": "Sr Software Engineer",
+          "checkin": null,
+          "checkout": null,
+          "picture": "IMG-20190205-WA0167.jpg",
+          "id":"7"
+        },
+        {
+          "name": "Bilal",
+          "designation": "Software Engineer",
+          "checkin": null,
+          "checkout": null,
+          "picture": "IMG-20190205-WA0150.jpg",
+          "id":"8"
+        },
+        {
+          "name": "Amaar Ali",
+          "designation": "Admin",
+          "checkin": null,
+          "checkout": null,
+          "picture": "IMG-20190205-WA0170.jpg",
+          "id":"9"
         }
     ]
     res.send(JSON.stringify(users))
