@@ -185,4 +185,8 @@ app.get("/api/teams", (req, res)=>{
     res.send(JSON.stringify(teams))
 })
 
+app.get("/api/pointTypes", (req, res)=>{
+    res.send(JSON.stringify(pointTypes))
+})
+
 app.listen(port, ()=> console.log("Listening to Port: ", port))
