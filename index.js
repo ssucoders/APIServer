@@ -114,6 +114,16 @@ let teams = [
     "members": [
       {
         "name": "Saif ur rehman",
+        "email": "abc@gmail.com", 
+        "followers": "12K", 
+        "position": "Top1", 
+        "work": "12", 
+        "progress": [
+              { "title": "UIUX", "value": "97" },
+              { "title": "Animation", "value": "45" },
+              { "title": "Painting", "value": "36" }
+
+          ],
         "designation": "Sr Software Engineer",
         "picture": "IMG-20190205-WA0167.jpg",
         "id":"1",
@@ -124,6 +134,16 @@ let teams = [
       },
       {
         "name": "Ubaid ur rehman",
+        "email": "ubaid@email.com", 
+        "followers": "10K", 
+        "position": "Top5", 
+        "work": "10", 
+        "progress": [
+              { "title": "UIUX", "value": "70" },
+              { "title": "Animation", "value": "90" },
+              { "title": "Painting", "value": "56" }
+
+          ],
         "designation": "Software Engineer",
         "picture": "IMG-20190205-WA0150.jpg",
         "id":"2",
@@ -134,6 +154,16 @@ let teams = [
       },
       {
         "name": "Atta ur rehman",
+        "email": "atta@email.com", 
+        "followers": "200", 
+        "position": "Top10", 
+        "work": "2", 
+        "progress": [
+              { "title": "UIUX", "value": "10" },
+              { "title": "Animation", "value": "15" },
+              { "title": "Painting", "value": "90" }
+
+          ],
         "designation": "Admin",
         "picture": "IMG-20190205-WA0170.jpg",
         "id":"3",
@@ -151,6 +181,16 @@ let teams = [
     "members": [
       {
         "name": "Ubaid ur rehman",
+        "email": "ubaid@email.com", 
+        "followers": "10K", 
+        "position": "Top5", 
+        "work": "10", 
+        "progress": [
+              { "title": "UIUX", "value": "70" },
+              { "title": "Animation", "value": "90" },
+              { "title": "Painting", "value": "56" }
+
+          ],
         "designation": "Software Engineer",
         "picture": "IMG-20190205-WA0150.jpg",
         "id":"2",
@@ -158,6 +198,16 @@ let teams = [
       },
       {
         "name": "Atta ur rehman",
+        "email": "atta@email.com", 
+        "followers": "200", 
+        "position": "Top10", 
+        "work": "2", 
+        "progress": [
+              { "title": "UIUX", "value": "10" },
+              { "title": "Animation", "value": "15" },
+              { "title": "Painting", "value": "90" }
+
+          ],
         "designation": "Admin",
         "picture": "IMG-20190205-WA0170.jpg",
         "id":"3",
@@ -173,6 +223,16 @@ let teams = [
     "members": [
       {
         "name": "Atta ur rehman",
+        "email": "atta@email.com", 
+        "followers": "200", 
+        "position": "Top10", 
+        "work": "2", 
+        "progress": [
+              { "title": "UIUX", "value": "10" },
+              { "title": "Animation", "value": "15" },
+              { "title": "Painting", "value": "90" }
+
+          ],
         "designation": "Admin",
         "picture": "IMG-20190205-WA0170.jpg",
         "id":"3",
